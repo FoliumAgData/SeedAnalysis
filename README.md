@@ -7,12 +7,18 @@ Batch processing of all .jpg, .jpeg, and .png files in the working directory
 Seed detection and segmentation using a yellow 1×1 cm square as a scale reference
 
 ******Extraction of seed traits:******
-****Area (cm²)****
-****Perimeter (cm)****
+Area (cm²)
+
+Perimeter (cm)
+
 Circularity
+
 Aspect ratio
+
 Centroid location
+
 Brightness and whiteness
+
 
 **Per-image outputs:**
 CSV file containing all measured traits
