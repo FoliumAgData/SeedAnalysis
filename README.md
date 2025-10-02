@@ -6,9 +6,9 @@ This project provides an automated image analysis pipeline for extracting quanti
 Batch processing of all .jpg, .jpeg, and .png files in the working directory
 Seed detection and segmentation using a yellow 1×1 cm square as a scale reference
 
-**Extraction of seed traits:**
-Area (cm²)
-Perimeter (cm)
+******Extraction of seed traits:******
+****Area (cm²)****
+****Perimeter (cm)****
 Circularity
 Aspect ratio
 Centroid location
